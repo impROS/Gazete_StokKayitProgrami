@@ -1,0 +1,22 @@
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\StokKayıtProgramı.exe.config
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\Properties\data.accdb
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\StokKayıtProgramı.exe.manifest
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\StokKayıtProgramı.application
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\StokKayıtProgramı.exe
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\StokKayıtProgramı.pdb
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.anaMenu.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.login.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.Properties.Resources.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.raporEkranı.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.stokİslem.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.urunDuzenle.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.urunEkle.resources
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.csproj.GenerateResource.Cache
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.exe.manifest
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.application
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.exe
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.pdb
+C:\Users\x.impROS.x\Documents\Visual Studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.csprojResolveAssemblyReference.cache
+C:\Users\x.impROS.x\documents\visual studio 2012\Projects\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.exe.licenses
+F:\StokKayıtProgramı\StokKayıtProgramı\bin\Debug\StokKayıtProgramı.exe.config
+F:\StokKayıtProgramı\StokKayıtProgramı\obj\Debug\StokKayıtProgramı.exe

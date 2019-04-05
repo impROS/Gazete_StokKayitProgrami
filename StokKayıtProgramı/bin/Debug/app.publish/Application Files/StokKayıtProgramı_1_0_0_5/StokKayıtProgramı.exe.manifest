@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="StokKayıtProgramı.exe" version="1.0.0.5" publicKeyToken="86050570e66c05ff" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="123.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="StokKayıtProgramı" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="StokKayıtProgramı.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StokKayıtProgramı.exe" size="485376">
+      <assemblyIdentity name="StokKayıtProgramı" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oGS/hf9Wr3dyAuiivGH6l6PqpE37k7BoGR6tSj3HnpE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="123.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6nCTPf6CQ0HVTpkNgsjWERHhz86jtgB6Aym8xgHboUk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Properties\data.accdb" size="499712">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qIEmADB89tJtXAZp1sDvOCB11EmZXKcI0QK3mgQt46A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="StokKayıtProgramı.exe.config" size="557">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hExoRGaSRB5Ug5q4qwta0unC9aeJrfJ6aoKcB3qnQ4s=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=impROS\x.impROS.x" issuerKeyHash="abead2b7d6501ef39b60c5b714eab2983f697d9b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Xt4dyJMcFwZXz2L4+INVFG/jB4hLoYwmUuczqe6Zo/w=</DigestValue></Reference></SignedInfo><SignatureValue>qY8fWUznnyJIK/4rCPW2jf/QrPcTHGOPyR/2OTJ3tfR0JJXyOrFxHkzGu4/mwteU5oO3aXm2mvFxc9St9VyjkE3I9TsvXVLrKdbtobR6I7pQhRsQX9TLwA7UR0pGMUEWPE3mUiyKIUgdBNQaEjD8lEAjkBc+VtlrdEF8snRZHoI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xCyTVhofJqX7fNC2Loms/P1Ul75p8rVM4siaqLC95+uDJdxKIWX8o/7MeBQUgnIIRkVk9JRnvgRS0LpQtsqkw+aUiUwJP3ed+thgO7ZuFDK7WHTE2gpzdNWhRnbaHuvXeT6qeEdLdwVnfNiRN++r11WvfG+YDka5zoLrrVGZmGE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fca399eea933e752268ca14b8807e36f145583f8f862cf5706171c93c81dde5e" Description="" Url=""><as:assemblyIdentity name="StokKayıtProgramı.exe" version="1.0.0.5" publicKeyToken="86050570e66c05ff" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=impROS\x.impROS.x</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>M//ddQWtA+PGkwW0v6sowVA8s8CjyE9kPrZNa8Ha8pk=</DigestValue></Reference></SignedInfo><SignatureValue>I3MZZs5sSmgVxoGi6extgLEMk1lnbfuQeH58QP/NxX1EMAJOUY7cPoRWw7OwU/6g8saLafhsNtIVGOTo9IU++OuWiPAPb+to9It4MB1HCU7Wd7oRn9+ok00sHhsaLIJivxEHC9A/khRkt+qB2edzn7lR51LrkyObbXKhRA+Fv6A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xCyTVhofJqX7fNC2Loms/P1Ul75p8rVM4siaqLC95+uDJdxKIWX8o/7MeBQUgnIIRkVk9JRnvgRS0LpQtsqkw+aUiUwJP3ed+thgO7ZuFDK7WHTE2gpzdNWhRnbaHuvXeT6qeEdLdwVnfNiRN++r11WvfG+YDka5zoLrrVGZmGE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQTmAjp3P3W51MtkxiWOWyXzANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAaQBtAHAAUgBPAFMAXAB4AC4AaQBtAHAAUgBPAFMALgB4MB4XDTE1MDcwNDA2NDYyMVoXDTE2MDcwMzEyNDYyMVowLTErMCkGA1UEAx4iAGkAbQBwAFIATwBTAFwAeAAuAGkAbQBwAFIATwBTAC4AeDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxCyTVhofJqX7fNC2Loms/P1Ul75p8rVM4siaqLC95+uDJdxKIWX8o/7MeBQUgnIIRkVk9JRnvgRS0LpQtsqkw+aUiUwJP3ed+thgO7ZuFDK7WHTE2gpzdNWhRnbaHuvXeT6qeEdLdwVnfNiRN++r11WvfG+YDka5zoLrrVGZmGECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBDy+GxG614WzH+M+aCOGWW0KJv/jf+Y1URwrg0HJKzM2pNbmJV3QgATN495lS1jSa3H7lSdx1EARJzLCZ1o6IaReLpr8wXozxSFeNUwqX/PaL1crhORCXI+b4uObSWWlJSlX0njZAfeZTION3iWCzkh88tXrNiglZNML/3X7MvAQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
